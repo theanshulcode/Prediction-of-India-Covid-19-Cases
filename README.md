@@ -13,4 +13,9 @@ Tools and Libraries Used:
 4. Matplotlib
 5. Seaborn
 
+Skills Developed in this project:
+
+1. Python Programming
+2. Data Analysis
+3. Data Visualization
 
